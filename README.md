@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shraddha12112000
-- 👀 I’m interested in Machine Learning , Front End Development and Data Science 
-- 🌱 I’m currently learning DSA with Java. 
+- 👀 I’m interested in Machine Learning and Data Science 
+- 🌱 I’m currently working on End to End ML/Data Science Projects. 
 - 💞️ I’m looking to collaborate on Machine Learning projects 
 - 📫 How to reach me gujarshraddha13@gmail.com
 
